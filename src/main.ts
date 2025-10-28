@@ -11,3 +11,4 @@ bootstrap();
 
 // nest generate module messages
 // nest generate controller messages/messages --flat
+// dto - data transfer object
